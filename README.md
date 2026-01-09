@@ -8,7 +8,7 @@ Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido para apresent
 
 | Home | Downloads | Updates |
 |------|-----------|---------|
-| ![Preview](./portifolio/public/GITHUB_READ/layer1.png) | ![Preview](./portifolio/public/GITHUB_READ/layer2.png) | ![Preview](./portifolio/public/GITHUB_READ/layer3.png) |
+| ![Preview](./public/GITHUB_READ/layer1.png) | ![Preview](./public/GITHUB_READ/layer2.png) | ![Preview](./public/GITHUB_READ/layer3.png) |
 
 </div>
 
