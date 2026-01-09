@@ -6,7 +6,7 @@ Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido para apresent
 
 <div align="center">
 
-| Home | Downloads | Updates |
+| Home | Experiencias (exemplo só) | Projetos |
 |------|-----------|---------|
 | ![Preview](./public/GITHUB_READ/layer1.png) | ![Preview](./public/GITHUB_READ/layer2.png) | ![Preview](./public/GITHUB_READ/layer3.png) |
 
