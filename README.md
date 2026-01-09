@@ -17,10 +17,10 @@ Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido para apresent
 
 Este projeto foi construído utilizando as seguintes tecnologias modernas:
 
--   **React** (v19): Biblioteca JavaScript para construção de interfaces de usuário.
+-   **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 -   **Vite**: Build tool rápida para desenvolvimento web moderno.
 -   **Tailwind CSS**: Framework CSS utility-first para estilização rápida e responsiva.
--   **React Router Dom** (v7): Biblioteca para gerenciamento de rotas e navegação SPA (Single Page Application).
+-   **React Router Dom**: Biblioteca para gerenciamento de rotas e navegação SPA (Single Page Application).
 
 ## 📋 Funcionalidades
 
